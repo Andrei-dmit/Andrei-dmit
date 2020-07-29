@@ -1,5 +1,13 @@
-### Hello!
+# Andrei
 
+### Hello, 
+#### I'm Andrei,
+I can code in
+* Python
+
+And I have 2 private repo's
+1. emailsend
+2. calclib
 <!--
 **Andrei-dmit/Andrei-dmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
