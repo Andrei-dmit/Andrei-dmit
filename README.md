@@ -8,6 +8,8 @@ I can code in
 And I have 2 private repo's
 1. emailsend
 2. calclib
+
+I also own a self-hosted Minecraft Server hosted on a Raspberry Pi.
 <!--
 **Andrei-dmit/Andrei-dmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
